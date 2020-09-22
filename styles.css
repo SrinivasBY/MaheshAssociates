@@ -1,0 +1,17 @@
+ body {
+   padding: 3% 7%;
+ }
+
+ p {
+   padding: 1% 2%;
+ }
+
+ #home, #services {
+   background-color: #e3f2fd;
+ }
+
+ .MaheshHeading {
+   /* font-family: 'Merriweather', serif; */
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 800;
+ }
